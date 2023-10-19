@@ -1,5 +1,5 @@
-![PRÉVIA (10)](https://github.com/camilyolivei/lading-page/assets/120147200/322c77d8-7c92-40c5-bc09-b82ecc5bfde8)
 
+![previa-6](https://github.com/camilyolivei/lading-page/assets/120147200/88b153c3-9ef2-4d5a-bce5-ed7831c28da4)
 
 
 - [Visualizar site completo](https://camilyolivei.github.io/lading-page/)<br/>
